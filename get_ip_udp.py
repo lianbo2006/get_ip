@@ -17,4 +17,4 @@ def get_host_ip():
     return ip
 
 ip = get_host_ip()
-print "ip: %s"%ip
+print "ip = %s"%ip
